@@ -25,3 +25,7 @@ Let's talk some common terms:
 Now, I would like all of you to clone this repo, update this file by filling in details of the commands, and pushing this file to your new repo.
 
 For reference, I would encourage all of you to go through official git documentation.
+
+alskdjfalsdghajlfgha
+
+pull and fetch.
