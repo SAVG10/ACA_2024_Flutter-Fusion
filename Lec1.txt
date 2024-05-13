@@ -21,6 +21,7 @@ Let's talk some common terms:
 13. Restore
 14. Fetch
 15. Init
+16. Checkout
 
 Now, I would like all of you to clone this repo, update this file by filling in details of the commands, and pushing this file to your new repo.
 
