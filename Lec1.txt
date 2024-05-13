@@ -6,21 +6,21 @@ versions of our project without having to manually store each version.
 
 Let's talk some common terms:
 
-1. Repo
-2. Add
-3. Pull
-4. Clone
-5. Stage
-6. Commit
-7. Push
-8. Fork
-9. Branch
-10. Merge
-11. README
-12. Status
-13. Restore
-14. Fetch
-15. Init
+1. Repo-It is a virtual storage location for managing and tracking file.
+2. Add-This helps us to stage changes from working directory to the stagging area.
+3. Pull-It helps us to sync our local repo to remote repo.
+4. Clone-It creates a copy of remote repo to our local repo.
+5. Stage-When you make changes and apply add command your changes are stagged to commit.
+6. Commit-It is like a snapshot of your work which saves the current changes of your working directories.
+7. Push-It means transferring your local repo to remote repo.
+8. Fork-Creating a copy of project repo on your github account.
+9. Branch-Within a repo it helps us to work on different line.
+10. Merge-This command helps us to combining the two branch.
+11. README-It is file that is usually created to save information about the repo.
+12. Status-This command shows the current status whether the there are changes and what have to be commited.
+13. Restore-As the name suggest it restore the changes in local repo.
+14. Fetch-It downloads the files from remote repo to local repo.
+15. Init-It changes any directory to git directory.
 
 Now, I would like all of you to clone this repo, update this file by filling in details of the commands, and pushing this file to your new repo.
 
