@@ -6,22 +6,22 @@ versions of our project without having to manually store each version.
 
 Let's talk some common terms:
 
-1. Repo
-2. Add
-3. Pull
-4. Clone
-5. Stage
-6. Commit
-7. Push
-8. Fork
-9. Branch
-10. Merge
-11. README
-12. Status
-13. Restore
-14. Fetch
-15. Init
-16. Checkout
+1. Repo - Repository or Repo is a where one can store their code in github
+2. Add - command used to add files in the queue for commiting and pushing onto the Repository from local machine to the remote repo.
+3. Pull - copies all changes from the remote repo to the local machine
+4. Clone - clones the given repo onto the local machine 
+5. Stage - use to put files onto the queue for pushing onto the remote repo
+6. Commit - used to confirm changes in the files before pushing onto the remote repo
+7. Push - used to reflect changes from the local machine to the remote repo
+8. Fork - used to copy a repo by some other author onto the user's github account
+9. Branch - different places to organize code in a repo
+10. Merge - used to merge 2 branches
+11. README - an introductory file provided in the repo to give an insight into the code that is stored
+12. Status - gives the details of the differences between the local machine and the remote repo
+13. Restore - opposite of stage, that is, it is used to uncommit changes
+14. Fetch - used to fetch the changes from the remote repo but does not alter the local repo
+15. Init - used to initialize the given directory to a repository
+16. Checkout - used to switch branches
 
 Now, I would like all of you to clone this repo, update this file by filling in details of the commands, and pushing this file to your new repo.
 
@@ -29,4 +29,4 @@ For reference, I would encourage all of you to go through official git documenta
 
 alskdjfalsdghajlfgha
 
-pull and fetch.
+pull and fetch - the difference is that pull reflects the changes in the remote repo into the local workspace whereas the fetch command just fetches the changes and does not alter the local workspace
