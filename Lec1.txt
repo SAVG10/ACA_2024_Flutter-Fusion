@@ -1,0 +1,41 @@
+So today, we will be discussing github and its commands.
+
+Github is a VCS i.e. it is a version control system.
+The main purpose of a version control system is to enable proper file management and have the history of all the 
+versions of our project without having to manually store each version.
+
+Let's talk some common terms:
+
+1)Repository (Repo): A repository is a storage space where your project's files and revision history are kept. On GitHub, a repository can be created to manage and collaborate on projects.
+
+2)Add: The git add command stages changes in your working directory for the next commit. It tells Git to track the specified files and prepare them for committing.
+
+3)Pull: The git pull command fetches and integrates changes from a remote repository into your current branch. It's a combination of git fetch and git merge.
+
+4)Clone: The git clone command creates a copy of an existing repository. It downloads the entire repository, including its history, to your local machine.
+
+5)Stage: Staging involves using git add to move changes from the working directory to the staging area. This prepares changes to be included in the next commit.
+
+6)Commit: The git commit command saves your staged changes to the repository with a descriptive message. This creates a new snapshot in the project’s history.
+
+7)Push: The git push command uploads your local repository changes to a remote repository, such as GitHub. This is how you share your changes with others.
+
+8)Fork: Forking a repository creates a personal copy of someone else's project on GitHub. This allows you to make changes without affecting the original repository.
+
+9)Branch: A branch is a separate line of development in a repository. The master or main branch is the default, but you can create and work on other branches independently.
+
+10)Merge: Merging is the process of integrating changes from one branch into another. The git merge command combines the histories of two branches.
+
+11)README: A README file, typically written in Markdown, provides an overview of your project. It usually includes instructions for installation, usage, and contribution.
+
+12)Status: The git status command displays the state of the working directory and staging area. It shows which files are modified, staged, or untracked.
+
+13)Restore: The git restore command is used to discard changes in the working directory. It can be used to restore files to their last committed state.
+
+14)Fetch: The git fetch command downloads objects and refs from another repository. Unlike git pull, it doesn't merge changes into your current branch.
+
+15)Init: The git init command initializes a new Git repository in an existing directory. It creates a .git subdirectory with all the necessary metadata.
+
+16)Checkout: The git checkout command switches between branches or restores working directory files. It updates the files in your working directory to match the specified branch or commit.
+
+
