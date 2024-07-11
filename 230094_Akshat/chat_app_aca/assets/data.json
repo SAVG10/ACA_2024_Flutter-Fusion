@@ -1,0 +1,390 @@
+{
+    "users": [
+      {
+        "name": "John Doe",
+        "profilePicUrl": "https://randomuser.me/api/portraits/men/1.jpg",
+        "recentMessageCount": "5",
+        "chats": [
+          {
+            "isCurrentUser": true,
+            "message": "Hello there!"
+          },
+          {
+            "isCurrentUser": false,
+            "message": "Hi John, how are you?"
+          },
+          {
+            "isCurrentUser": true,
+            "message": "I'm good, thanks! How about you?"
+          },
+          {
+            "isCurrentUser": false,
+            "message": "Doing well, just been really busy with work."
+          },
+          {
+            "isCurrentUser": true,
+            "message": "I understand. Any plans for the weekend?"
+          },
+          {
+            "isCurrentUser": false,
+            "message": "Not yet. Maybe just relaxing at home. You?"
+          },
+          {
+            "isCurrentUser": true,
+            "message": "Thinking of going hiking. Want to join?"
+          },
+          {
+            "isCurrentUser": false,
+            "message": "Sounds fun! I'll check my schedule and let you know."
+          },
+          {
+            "isCurrentUser": true,
+            "message": "Great! Let me know soon."
+          }
+        ]
+      },
+      {
+        "name": "Jane Smith",
+        "profilePicUrl": "https://randomuser.me/api/portraits/men/8.jpg",
+        "recentMessageCount": "3",
+        "chats": [
+          {
+            "isCurrentUser": true,
+            "message": "Hey Jane, long time no see!"
+          },
+          {
+            "isCurrentUser": false,
+            "message": "Hey! Yeah, it's been a while."
+          },
+          {
+            "isCurrentUser": true,
+            "message": "We should catch up soon."
+          },
+          {
+            "isCurrentUser": false,
+            "message": "Definitely. How about coffee this Saturday?"
+          },
+          {
+            "isCurrentUser": true,
+            "message": "Sounds perfect. Let's meet at our usual spot."
+          },
+          {
+            "isCurrentUser": false,
+            "message": "See you there at 10 AM?"
+          },
+          {
+            "isCurrentUser": true,
+            "message": "Works for me. See you then!"
+          },
+          {
+            "isCurrentUser": false,
+            "message": "Can't wait!"
+          }
+        ]
+      },
+      {
+        "name": "Alice Johnson",
+        "profilePicUrl": "https://randomuser.me/api/portraits/women/2.jpg",
+        "recentMessageCount": "4",
+        "chats": [
+          {
+            "isCurrentUser": false,
+            "message": "Are you coming to the meeting tomorrow?"
+          },
+          {
+            "isCurrentUser": true,
+            "message": "Yes, I'll be there."
+          },
+          {
+            "isCurrentUser": false,
+            "message": "Great. We need to discuss the project details."
+          },
+          {
+            "isCurrentUser": true,
+            "message": "Sure, I have all the documents ready."
+          },
+          {
+            "isCurrentUser": false,
+            "message": "Perfect. Let's aim to finalize everything by next week."
+          },
+          {
+            "isCurrentUser": true,
+            "message": "That sounds good to me."
+          },
+          {
+            "isCurrentUser": false,
+            "message": "See you tomorrow then!"
+          },
+          {
+            "isCurrentUser": true,
+            "message": "See you!"
+          }
+        ]
+      },
+      {
+        "name": "Robert Brown",
+        "profilePicUrl": "https://randomuser.me/api/portraits/men/2.jpg",
+        "recentMessageCount": "2",
+        "chats": [
+          {
+            "isCurrentUser": true,
+            "message": "Hey Robert, any updates on the report?"
+          },
+          {
+            "isCurrentUser": false,
+            "message": "Hey! Yes, I just finished it."
+          },
+          {
+            "isCurrentUser": true,
+            "message": "Awesome! Can you send it over?"
+          },
+          {
+            "isCurrentUser": false,
+            "message": "Just emailed it to you."
+          },
+          {
+            "isCurrentUser": true,
+            "message": "Got it. Thanks!"
+          },
+          {
+            "isCurrentUser": false,
+            "message": "No problem. Let me know if you need any changes."
+          },
+          {
+            "isCurrentUser": true,
+            "message": "Will do. Thanks again!"
+          }
+        ]
+      },
+      {
+        "name": "Emily Davis",
+        "profilePicUrl": "https://randomuser.me/api/portraits/women/3.jpg",
+        "recentMessageCount": "6",
+        "chats": [
+          {
+            "isCurrentUser": false,
+            "message": "Did you finish the assignment?"
+          },
+          {
+            "isCurrentUser": true,
+            "message": "Yes, just submitted it."
+          },
+          {
+            "isCurrentUser": false,
+            "message": "Great! What did you think of the last question?"
+          },
+          {
+            "isCurrentUser": true,
+            "message": "It was tough, but I managed to figure it out."
+          },
+          {
+            "isCurrentUser": false,
+            "message": "I struggled with it too. Glad it's done though."
+          },
+          {
+            "isCurrentUser": true,
+            "message": "Same here. Let's hope for the best!"
+          },
+          {
+            "isCurrentUser": false,
+            "message": "Fingers crossed!"
+          }
+        ]
+      },
+      {
+        "name": "Michael Scott",
+        "profilePicUrl": "https://randomuser.me/api/portraits/men/3.jpg",
+        "recentMessageCount": "4",
+        "chats": [
+          {
+            "isCurrentUser": true,
+            "message": "Hey, how's it going?"
+          },
+          {
+            "isCurrentUser": false,
+            "message": "Hey Michael, pretty good! You?"
+          },
+          {
+            "isCurrentUser": true,
+            "message": "Can't complain. Just busy with work."
+          },
+          {
+            "isCurrentUser": false,
+            "message": "I know the feeling. Same here."
+          },
+          {
+            "isCurrentUser": true,
+            "message": "Let's catch up soon."
+          },
+          {
+            "isCurrentUser": false,
+            "message": "Definitely. How about lunch tomorrow?"
+          },
+          {
+            "isCurrentUser": true,
+            "message": "Sounds good to me!"
+          }
+        ]
+      },
+      {
+        "name": "Sarah Connor",
+        "profilePicUrl": "https://randomuser.me/api/portraits/women/4.jpg",
+        "recentMessageCount": "5",
+        "chats": [
+          {
+            "isCurrentUser": true,
+            "message": "Are you free this weekend?"
+          },
+          {
+            "isCurrentUser": false,
+            "message": "Hey Sarah, I think so. Why?"
+          },
+          {
+            "isCurrentUser": true,
+            "message": "I was thinking we could go hiking."
+          },
+          {
+            "isCurrentUser": false,
+            "message": "That sounds great! Count me in."
+          },
+          {
+            "isCurrentUser": true,
+            "message": "Awesome! Let's plan the details later."
+          },
+          {
+            "isCurrentUser": false,
+            "message": "Sure thing. Talk to you later!"
+          }
+        ]
+      },
+      {
+        "name": "David Beckham",
+        "profilePicUrl": "https://randomuser.me/api/portraits/men/4.jpg",
+        "recentMessageCount": "3",
+        "chats": [
+          {
+            "isCurrentUser": false,
+            "message": "Did you watch the game last night?"
+          },
+          {
+            "isCurrentUser": true,
+            "message": "Yes, it was amazing!"
+          },
+          {
+            "isCurrentUser": false,
+            "message": "I know, right? That last goal was incredible."
+          },
+          {
+            "isCurrentUser": true,
+            "message": "Absolutely. Can't wait for the next match."
+          },
+          {
+            "isCurrentUser": false,
+            "message": "Me neither!"
+          }
+        ]
+      },
+      {
+        "name": "Laura Croft",
+        "profilePicUrl": "https://randomuser.me/api/portraits/women/5.jpg",
+        "recentMessageCount": "6",
+        "chats": [
+          {
+            "isCurrentUser": true,
+            "message": "Do you have the report ready?"
+          },
+          {
+            "isCurrentUser": false,
+            "message": "Hi Laura, almost done. I'll send it over soon."
+          },
+          {
+            "isCurrentUser": true,
+            "message": "Great, looking forward to it."
+          },
+          {
+            "isCurrentUser": false,
+            "message": "Thanks for your patience."
+          },
+          {
+            "isCurrentUser": true,
+            "message": "No problem at all."
+          },
+          {
+            "isCurrentUser": false,
+            "message": "You'll have it by the end of the day."
+          },
+          {
+            "isCurrentUser": true,
+            "message": "Perfect. Thanks!"
+          }
+        ]
+      },
+      {
+        "name": "Bruce Wayne",
+        "profilePicUrl": "https://randomuser.me/api/portraits/men/5.jpg",
+        "recentMessageCount": "2",
+        "chats": [
+          {
+            "isCurrentUser": false,
+            "message": "Can you join the call at 3 PM?"
+          },
+          {
+            "isCurrentUser": true,
+            "message": "Sure, I'll be there."
+          },
+          {
+            "isCurrentUser": false,
+            "message": "Thanks. We need your input on the project."
+          },
+          {
+            "isCurrentUser": true,
+            "message": "Got it. I'll prepare my notes."
+          },
+          {
+            "isCurrentUser": false,
+            "message": "See you then!"
+          },
+          {
+            "isCurrentUser": true,
+            "message": "See you!"
+          }
+        ]
+      },
+      {
+        "name": "Diana Prince",
+        "profilePicUrl": "https://randomuser.me/api/portraits/women/6.jpg",
+        "recentMessageCount": "7",
+        "chats": [
+          {
+            "isCurrentUser": true,
+            "message": "Are you coming to the party tonight?"
+          },
+          {
+            "isCurrentUser": false,
+            "message": "Hey Diana, yes I am. Can't wait!"
+          },
+          {
+            "isCurrentUser": true,
+            "message": "Awesome! It's going to be fun."
+          },
+          {
+            "isCurrentUser": false,
+            "message": "Definitely. See you there!"
+          },
+          {
+            "isCurrentUser": true,
+            "message": "See you!"
+          },
+          {
+            "isCurrentUser": false,
+            "message": "Do you need a ride?"
+          },
+          {
+            "isCurrentUser": true,
+            "message": "No, I'm good. Thanks for offering!"
+          }
+        ]
+      }
+    ]
+  }
+  
