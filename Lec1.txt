@@ -1,0 +1,32 @@
+So today, we will be discussing github and its commands.
+
+Github is a VCS i.e. it is a version control system.
+The main purpose of a version control system is to enable proper file management and have the history of all the 
+versions of our project without having to manually store each version.
+
+Let's talk some common terms:
+
+1. Repo
+2. Add
+3. Pull
+4. Clone
+5. Stage
+6. Commit
+7. Push
+8. Fork
+9. Branch
+10. Merge
+11. README
+12. Status
+13. Restore
+14. Fetch
+15. Init
+16. Checkout
+
+Now, I would like all of you to clone this repo, update this file by filling in details of the commands, and pushing this file to your new repo.
+
+For reference, I would encourage all of you to go through official git documentation.
+
+alskdjfalsdghajlfgha
+
+pull and fetch.
